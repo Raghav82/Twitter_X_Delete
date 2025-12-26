@@ -47,13 +47,15 @@ const MAX_RETRIES = 3;         // Retries for menu actions
 const SHORT_PAUSE_MS = 500;    // Small spacing between tweets
 </code></pre>
 
+
 <h2>References</h2>
 <ul>
     <li>https://docs.x.com/x-api/posts/manage-tweets/introductionManage Posts – Official Docs</a></li>
     <li>https://stackoverflow.com/questions/64863099/deleting-tweets-with-js-consoleStackOverflow Discussion on UI Selectors</a></li>
-    <li><a href="https://chrissmith.xyz/blog/2024/bulk-deleting-tmunity Scripts &amp; Blog Posts</a></li>
-    <li><a href="https://gist.github.com/lucahammer/1aab04035839da5ef699d65Gist Example</a></li>
+    <li>https://chrissmith.xyz/blog/2024/bulk-deleting-tweets/Community Scripts &amp; Blog Posts</a></li>
+    <li>https://gist.github.com/lucahammer/1aa16b4d3c1fb04035839da5ef699d65Gist Example</a></li>
 </ul>
+
 
 <h2>Disclaimer</h2>
 <p>Use at your own risk. This script interacts with the live UI and may break if X updates its DOM structure.</p>
